@@ -180,3 +180,6 @@ hi link cssIdentifier      Special
 hi link cssClassName       Special
 hi link cssTagName         Special
 hi link cssBraces          Normal
+
+"" Set background colour for add diff
+hi diffAdd         ctermfg=NONE          ctermbg=12         cterm=bold
